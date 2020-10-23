@@ -1,4 +1,4 @@
-# Deployment instructions
+# INSTRUCTIONS FOR DEPLOYMENT 
 
 1. Run azuredeploy.json to deploy Azure Search instance and Search indexer Function App.
 1. Once deployed, confirm that the Function App has the proper app settings, including settings for accessing Search.
